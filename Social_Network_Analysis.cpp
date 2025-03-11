@@ -276,12 +276,7 @@ public:
 int main() {
     cout << "\t-----------Welcome to the Social Network Analysis Tool -----------\n\n";
 
-    cout << "Danish" << "Ali" << endl;
-    cout<<"_____________________________" << endl;
-    cout << "Reg_N0" << ":" << "L1F22BSCS0244" << endl;
-    cout << "_____________________________" << endl;
-    cout << "Section" << ":" << "D_2" << endl;
-    cout << "_____________________________" << endl;
+   
 
     Graph g(6);
 
